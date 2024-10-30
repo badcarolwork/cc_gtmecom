@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="fluid">
       <CartProvider>
-        <Router>
+        <Router basename="/cc_gtmecom/">
           <NavBar categories={data.categories} />
           <Routes>
             <Route path="/" element={<HomePage />} />
