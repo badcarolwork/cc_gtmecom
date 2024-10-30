@@ -3,6 +3,7 @@ import { useCart } from "../cart/CartContext";
 import { useNavigate } from "react-router-dom";
 
 const ProductCard = ({ product }) => {
+  const uri = "/cc_gtmecom/";
   const { product_name, price, images, description, stock_status } = product;
   const { addToCart } = useCart();
   const navigate = useNavigate();
@@ -15,7 +16,7 @@ const ProductCard = ({ product }) => {
   return (
     <div className="card h-100">
       <img
-        src={images[0].image_url}
+        src={uri + images[0].image_url}
         alt={images[0].alt_text}
         className="card-img-top"
       />
