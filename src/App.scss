@@ -1,0 +1,57 @@
+nav {
+    .cart-btn {
+        display: flex;
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+        svg {
+            transform: scale(1.3);
+            margin-right: 20px;
+        }
+    }
+}
+
+// products page style
+.product-list {
+    .card {
+        border: 0;
+    }
+}
+
+.checkout {
+    .checkout-list {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    img {
+        width: auto;
+        max-height: 100px;
+        margin-right: 2%;
+    }
+    .cart-remove {
+        border: 0;
+        margin: 0;
+        margin-left: auto;
+        background: rgba(0, 0, 0, 0);
+        color: red;
+        svg {
+            margin-right: 10px;
+        }
+    }
+    .total-amount {
+        display: flex;
+        justify-content: end;
+        margin: 20px;
+    }
+    .payment-btn {
+        width: 200px;
+        float: right;
+        margin: 20px 10px;
+        font-weight: bold;
+        svg {
+            margin-right: 20px;
+        }
+    }
+}

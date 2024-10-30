@@ -1,0 +1,22 @@
+nav .cart-btn {
+  height: 30px;
+  width: 200px;
+  display: flex;
+}
+nav .cart-btn span {
+  width: 45%;
+}
+nav .cart-btn svg {
+  transform: scale(1.5);
+}
+
+.product-list .card {
+  border: 0;
+}
+
+.checkout img {
+  width: auto;
+  max-height: 100px;
+  margin-right: 2%;
+  float: left;
+}/*# sourceMappingURL=App.css.map */
