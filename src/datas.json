@@ -49,7 +49,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-1.jpg",
+                    "image_url": "/images/slide-1.jpg",
                     "alt_text": "Front view of 神經醯胺輕潤牛奶水"
                 }
             ],
@@ -76,7 +76,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-2.jpg",
+                    "image_url": "/images/slide-2.jpg",
                     "alt_text": "Front view of 水酷修護水潤洗顏凝膠"
                 }
             ],
@@ -103,7 +103,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-1.jpg",
+                    "image_url": "/images/slide-1.jpg",
                     "alt_text": "Front view of 水酷修護水潤潔顏油"
                 }
             ],
@@ -130,7 +130,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-1.jpg",
+                    "image_url": "/images/slide-1.jpg",
                     "alt_text": "Front view of 水酷修護保濕醒肌露"
                 }
             ],
@@ -157,7 +157,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-1.jpg",
+                    "image_url": "/images/slide-1.jpg",
                     "alt_text": "Front view of 神經醯胺輕潤牛奶水"
                 }
             ],
@@ -184,7 +184,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-1.jpg",
+                    "image_url": "/images/slide-1.jpg",
                     "alt_text": "Front view of 維他命C淨膚煥顏精露"
                 }
             ],
@@ -211,7 +211,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-1.jpg",
+                    "image_url": "/images/slide-1.jpg",
                     "alt_text": "Front view of NEO型塑霧感粉底液"
                 }
             ],
@@ -238,7 +238,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-1.jpg",
+                    "image_url": "/images/slide-1.jpg",
                     "alt_text": "Front view of NEO型塑霧感粉底液"
                 }
             ],
@@ -265,7 +265,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-1.jpg",
+                    "image_url": "/images/slide-1.jpg",
                     "alt_text": "Front view of NEO型塑霧感粉底液"
                 }
             ],
@@ -292,7 +292,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-1.jpg",
+                    "image_url": "/images/slide-1.jpg",
                     "alt_text": "Front view of NEO型塑霧感粉底液"
                 }
             ],
@@ -319,7 +319,7 @@
             ],
             "images": [
                 {
-                    "image_url": "public/images/slide-1.jpg",
+                    "image_url": "/images/slide-1.jpg",
                     "alt_text": "Front view of NEO型塑霧感粉底液"
                 }
             ],
